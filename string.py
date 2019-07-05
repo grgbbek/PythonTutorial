@@ -6,5 +6,5 @@ print(string * 2)
 print(string + ' BOY')
 
 x = 'app'
-y = 'lication'
+y = 'lications'
 print(x + y)
